@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[94156,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],""]
+3:I[5106,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],"Image"]
+5:I[17950,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T7a7,
+      <h2>Survey Preparation Services</h2>
+      <p>Before class, flag state or port state control (PSC) inspections, we carry out a comprehensive preparation process to ensure your vessel is fully compliant. Avoid delays and penalties due to unexpected deficiencies.</p>
+      
+      <h3>Survey Preparation Steps</h3>
+      <ul>
+        <li><strong>Gap Analysis:</strong> Our experts inspect your vessel and list missing items: charts, publications, safety equipment, fire systems, pipe markings, first aid supplies, etc.</li>
+        <li><strong>Needs List and Quotation:</strong> We provide a clear list of urgently needed products and offer competitive quotations.</li>
+        <li><strong>Fast Supply:</strong> We deliver missing items from our stock or through our emergency supply channels (24-48 hours across Turkey).</li>
+        <li><strong>Documentation Support:</strong> We help prepare certificates, maintenance records, training documents and up‑to‑date chart/publication lists.</li>
+        <li><strong>Marking and Labelling:</strong> We apply ISO and IMO standard markings for pipes, ventilation ducts, fire equipment, emergency equipment (colour codes, flow arrows, hazard pictograms).</li>
+        <li><strong>Fire and safety equipment periodic maintenance:</strong> Life rafts, fire extinguishers, fixed fire systems, EPIRB, SART servicing and certification through our authorised service centres.</li>
+      </ul>
+      
+      <p>After the survey, our follow‑up and renewal services keep your vessel always ready. <strong>A planned maintenance and renewal approach prevents costly surprises.</strong></p>
+      
+      <img src="/services/markings.png" alt="Pipe Markings" class="w-full rounded-lg my-4" />
+      <img src="/services/posters.png" alt="Warning Posters" class="w-full rounded-lg my-4" />
+      <p><strong>Contact us before your next survey – we will make sure you are fully compliant and documented.</strong></p>
+    0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white","children":[["$","section",null,{"className":"bg-gradient-to-r from-navy-900 to-navy-800 text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-16","children":[["$","$L2",null,{"href":"/en/hizmetler","className":"inline-flex items-center text-gold-400 hover:text-gold-300 mb-6","children":"← All Services"}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold","children":"Survey Preparation"}],["$","p",null,{"className":"text-gray-300 mt-4 max-w-2xl","children":"Identification and supply of missing items before class, flag or PSC inspections."}]]}]}],["$","section",null,{"className":"mx-auto max-w-4xl px-4 py-12","children":[["$","div",null,{"className":"relative w-full h-64 md:h-96 mb-8 rounded-lg overflow-hidden shadow-md","children":["$","$L3",null,{"src":"/services/markings.png","alt":"Survey Preparation","fill":true,"className":"object-cover"}]}],["$","div",null,{"className":"bg-white rounded-2xl shadow-lg p-6 md:p-8 prose prose-slate max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}]}],["$","div",null,{"className":"mt-12 text-center","children":["$","$L2",null,{"href":"/en/iletisim","className":"btn-primary inline-block","children":"Request a Quote"}]}]]}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QiOqQkMUrwb9SZeJi8IUC"}
+7:null

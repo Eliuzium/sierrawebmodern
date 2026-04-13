@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[94156,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],""]
+3:I[5106,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],"Image"]
+5:I[17950,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+4:T89d,
+      <h2>Digital Navigation Solutions</h2>
+      <p>Digital solutions offer currency, storage convenience and cost savings. As a sub‑distributor of <strong>Elcome LLC</strong>, Sierra Marine provides Admiralty and other leading brands' digital products.</p>
+      
+      <h3>Our Digital Portfolio</h3>
+      <ul>
+        <li><strong>AVCS (Admiralty Vector Chart Service):</strong> ECDIS‑compatible, continuously updated vector charts covering all world waters. <strong>Weekly updates</strong>. Used on over 20,000 ships worldwide.</li>
+        <li><strong>ADP (Admiralty Digital Publications):</strong> Digital navigation publications (Sailing Directions, List of Lights, List of Radio Signals, Tide Tables, Nautical Almanac). One interface, instant updates. Up to 70% cost savings compared to paper.</li>
+        <li><strong>ENP (Electronic Nautical Publications):</strong> Electronic versions of IMO, ITU and other official publications. Digital signature for legal validity.</li>
+        <li><strong>ARCS (Admiralty Raster Chart Service):</strong> Raster charts, bringing traditional chart appearance to digital environment. Compatible with ECDIS and ECS.</li>
+        <li><strong>IMO, ITU, Witherby's digital publications:</strong> Current electronic versions of international regulations and guides (PDF, ePub, XML).</li>
+      </ul>
+      
+      <h3>Advantages</h3>
+      <ul>
+        <li>24/7 up‑to‑date charts and publications – no manual corrections.</li>
+        <li>Single license usable across your entire fleet.</li>
+        <li>User‑friendly interfaces, fast search and filtering.</li>
+        <li>Easy backup and portability (USB, DVD or cloud).</li>
+        <li>Full ECDIS integration – API support.</li>
+      </ul>
+      
+      <h3>Training and Support</h3>
+      <p>We provide installation, user training and technical support for digital navigation products, including ECDIS integration. On‑site or remote training options available.</p>
+      
+      <img src="/services/printed-charts.png" alt="Digital Publications" class="w-full rounded-lg my-4" />
+      <p><strong>Ready for digital transformation? Contact us to create the best package for you.</strong></p>
+    0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white","children":[["$","section",null,{"className":"bg-gradient-to-r from-navy-900 to-navy-800 text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-16","children":[["$","$L2",null,{"href":"/en/hizmetler","className":"inline-flex items-center text-gold-400 hover:text-gold-300 mb-6","children":"← All Services"}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold","children":"Digital Publications & Charts"}],["$","p",null,{"className":"text-gray-300 mt-4 max-w-2xl","children":"AVCS, ADP, ENP digital navigation publications and chart services."}]]}]}],["$","section",null,{"className":"mx-auto max-w-4xl px-4 py-12","children":[["$","div",null,{"className":"relative w-full h-64 md:h-96 mb-8 rounded-lg overflow-hidden shadow-md","children":["$","$L3",null,{"src":"/services/printed-charts.png","alt":"Digital Publications & Charts","fill":true,"className":"object-cover"}]}],["$","div",null,{"className":"bg-white rounded-2xl shadow-lg p-6 md:p-8 prose prose-slate max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}]}],["$","div",null,{"className":"mt-12 text-center","children":["$","$L2",null,{"href":"/en/iletisim","className":"btn-primary inline-block","children":"Request a Quote"}]}]]}]]}],null,["$","$L5",null,{"children":"$L6"}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QiOqQkMUrwb9SZeJi8IUC"}
+6:["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]
+8:null

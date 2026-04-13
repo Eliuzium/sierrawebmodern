@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[94156,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],""]
+3:I[5106,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],"Image"]
+7:I[17950,["/_next/static/chunks/00cesxn~dodpr.js","/_next/static/chunks/0b~2svi-hwqst.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+4:Ta1e,
+      <h2>Dijital Seyir Çözümleri</h2>
+      <p>Kağıt harita ve yayınların yerini hızla alan dijital çözümler, <strong>güncellik, depolama kolaylığı ve maliyet avantajı</strong> sunar. Sierra Marine, <strong>Elcome LLC</strong> alt distribütörü olarak Admiralty ve diğer lider markaların dijital ürünlerini sunmaktadır.</p>
+      
+      <h3>Dijital Ürün Portföyümüz</h3>
+      <ul>
+        <li><strong>AVCS (Admiralty Vector Chart Service):</strong> ECDIS uyumlu, sürekli güncellenen vektör haritalar. Tüm dünya sularını kapsar. <strong>Haftalık güncellemeler</strong> ile en güncel veri. Dünyada 20.000'den fazla gemide kullanılıyor.</li>
+        <li><strong>ADP (Admiralty Digital Publications):</strong> Dijital seyir yayınları (Sailing Directions, List of Lights, List of Radio Signals, Tide Tables, Nautical Almanac). Tek bir arayüzden tüm yayınlara erişim, anlık güncellemeler. Kağıt yayınlara göre %70'e varan maliyet tasarrufu.</li>
+        <li><strong>ENP (Electronic Nautical Publications):</strong> IMO, ITU ve diğer kurumların elektronik yayınları. Kağıt israfını önler, arşivleme ve arama kolaylığı sağlar. Dijital imza ile resmi geçerlilik.</li>
+        <li><strong>ARCS (Admiralty Raster Chart Service):</strong> Raster harita servisi, geleneksel harita görünümünü dijital ortama taşır. ECDIS ve ECS sistemlerle uyumlu.</li>
+        <li><strong>IMO, ITU, Witherby's dijital yayınları:</strong> Uluslararası düzenlemelerin ve kılavuzların güncel elektronik versiyonları. PDF, ePub, XML formatları.</li>
+      </ul>
+      
+      <h3>Avantajlarımız</h3>
+      <ul>
+        <li>7/24 güncel harita ve yayınlar – Manuel düzeltme zahmeti yok.</li>
+        <li>Tek bir lisans ile filonuzdaki tüm gemilerde kullanım imkânı.</li>
+        <li>Kullanıcı dostu arayüzler, hızlı arama ve filtreleme.</li>
+        <li>Yedekleme ve kolay taşınabilirlik (USB, DVD veya bulut).</li>
+        <li>ECDIS sistemlerinize tam entegrasyon – API desteği.</li>
+      </ul>
+      
+      <h3>Eğitim ve Destek</h3>
+      <p>Dijital seyir ürünlerinin kurulumu, kullanıcı eğitimi ve teknik desteğini de sağlıyoruz. ECDIS sistemlerinize entegrasyon konusunda uzman kadromuzla yanınızdayız. Uzaktan veya gemide eğitim seçenekleri mevcuttur.</p>
+      
+      <img src="/services/printed-charts.png" alt="Dijital Yayınlar" class="w-full rounded-lg my-4" />
+      <p><strong>Dijital dönüşüme hazır mısınız? Size en uygun paketi oluşturmak için iletişime geçin.</strong></p>
+    0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white","children":[["$","section",null,{"className":"bg-gradient-to-r from-navy-900 to-navy-800 text-white","children":["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-16","children":[["$","$L2",null,{"href":"/hizmetler","className":"inline-flex items-center text-gold-400 hover:text-gold-300 mb-6","children":"← Tüm Hizmetler"}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold","children":"Dijital Yayınlar & Haritalar"}],["$","p",null,{"className":"text-gray-300 mt-4 max-w-2xl","children":"AVCS, ADP, ENP dijital seyir yayınları ve harita servisleri."}]]}]}],["$","section",null,{"className":"mx-auto max-w-4xl px-4 py-12","children":[["$","div",null,{"className":"relative w-full h-64 md:h-96 mb-8 rounded-lg overflow-hidden shadow-md","children":["$","$L3",null,{"src":"/services/printed-charts.png","alt":"Dijital Yayınlar & Haritalar","fill":true,"className":"object-cover"}]}],["$","div",null,{"className":"bg-white rounded-2xl shadow-lg p-6 md:p-8 prose prose-slate max-w-none","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}]}],"$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QiOqQkMUrwb9SZeJi8IUC"}
+5:["$","div",null,{"className":"mt-12 text-center","children":["$","$L2",null,{"href":"/iletisim","className":"btn-primary inline-block","children":"Teklif Al"}]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
